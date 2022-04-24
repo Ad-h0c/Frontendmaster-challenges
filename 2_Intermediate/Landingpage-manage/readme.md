@@ -6,7 +6,7 @@ This is the project created by using HTML, tailwindcss and little bit javascript
 
 ## Desktop Version
 
-![Landing page Desktop version](./Screenshots/2.png)
+![Landing page Desktop version](./Screenshots/1.png)
 ![Landing page Desktop version](./Screenshots/2.png)
 ![Landing page Desktop version](./Screenshots/3.png)
 ![Landing page Desktop version](./Screenshots/4.png)
