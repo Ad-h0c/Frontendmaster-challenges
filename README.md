@@ -4,6 +4,6 @@
 
 #### Intermediatery Challenges
 
-- [Manage-Landingpage](https://github.com/Ad-h0c/Frontendmaster-challenges/tree/main/2_Intermediate)
+- [Manage-Landingpage](https://github.com/Ad-h0c/Frontendmaster-challenges/tree/main/2_Intermediate/Landingpage-manage)
 
 #### Advanced Challenges
