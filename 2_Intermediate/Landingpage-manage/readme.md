@@ -17,6 +17,12 @@ This is the project created by using HTML, tailwindcss and little bit javascript
 
 ![Landing page Mobile Version](./Screenshots/m1.png)
 ![Landing page Mobile Version](./Screenshots/m2.png)
+
+---
+
 ![Landing page Mobile Version](./Screenshots/m3.png)
 ![Landing page Mobile Version](./Screenshots/m4.png)
+
+---
+
 ![Landing page Mobile Version](./Screenshots/m5.png)
