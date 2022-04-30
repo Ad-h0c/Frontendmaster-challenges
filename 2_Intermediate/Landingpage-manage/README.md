@@ -51,7 +51,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution link](https://#.com)
+- Solution URL: [Solution link](https://www.frontendmentor.io/solutions/manage-landing-page-ryiZPD5S5)
 - Live Site URL: [Deployed link](https://landingpage-adhoc.netlify.app/)
 
 ### Built with
