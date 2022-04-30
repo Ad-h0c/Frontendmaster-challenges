@@ -46,4 +46,3 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
