@@ -2,7 +2,7 @@
 
 ## Begineer challenges
 
-[interactive-rating-component-main](1_Beginner/interactive-rating-component-main)
+- [interactive-rating-component-main](1_Beginner/interactive-rating-component-main)
 
 ## Intermediatery Challenges
 
