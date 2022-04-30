@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/interactive-rating-component-solution-HykcfPcS5)
+- Live Site URL: [Add live site URL here](https://interactive-rating-adhoc.netlify.app/)
 
 ### Built with
 
@@ -45,4 +45,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ad-h0c](https://www.frontendmentor.io/profile/Ad-h0c)
