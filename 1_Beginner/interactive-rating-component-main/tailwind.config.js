@@ -21,6 +21,9 @@ module.exports = {
       fontFamily: {
         overpass: ["Overpass", ...defaultTheme.fontFamily.sans],
       },
+      width: {
+        128: "32rem",
+      },
     },
   },
   plugins: [],

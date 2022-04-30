@@ -14,7 +14,8 @@
     >
       <!-- Blue box start -->
       <div
-        class="hidden rounded-3xl max-w-md mx-40 p-5 mb:p-7 bg-DarkBlue/70 mb:max-w-screen-mb"
+        class="rounded-3xl max-w-md mx-40 p-5 mb:p-7 bg-DarkBlue/70 mb:max-w-screen-mb"
+        id="ratingBox"
       >
         <img
           src="images/icon-star.svg"
@@ -37,27 +38,27 @@
         <!-- Number buttons -->
         <div class="flex justify-evenly mt-5 mb-5">
           <button
-            class="font-overpass bg-MediumGrey/30 text-LightGrey rounded-full pt-2 pr-0 h-12 hover:bg-Orange w-12 hover:text-white"
+            class="font-overpass valuebutton bg-MediumGrey/30 text-LightGrey rounded-full pt-2 pr-0 h-12 hover:bg-Orange w-12 hover:text-white"
           >
             1
           </button>
           <button
-            class="font-overpass bg-MediumGrey/30 text-LightGrey rounded-full pt-2 pr-0 h-12 hover:bg-Orange w-12 hover:text-white"
+            class="font-overpass valuebutton bg-MediumGrey/30 text-LightGrey rounded-full pt-2 pr-0 h-12 hover:bg-Orange w-12 hover:text-white"
           >
             2
           </button>
           <button
-            class="font-overpass bg-MediumGrey/30 text-LightGrey rounded-full pt-2 pr-0 h-12 hover:bg-Orange w-12 hover:text-white"
+            class="font-overpass valuebutton bg-MediumGrey/30 text-LightGrey rounded-full pt-2 pr-0 h-12 hover:bg-Orange w-12 hover:text-white"
           >
             3
           </button>
           <button
-            class="font-overpass bg-MediumGrey/30 text-LightGrey rounded-full pt-2 pr-0.5 h-12 hover:bg-Orange w-12 hover:text-white"
+            class="font-overpass valuebutton bg-MediumGrey/30 text-LightGrey rounded-full pt-2 pr-0.5 h-12 hover:bg-Orange w-12 hover:text-white"
           >
             4
           </button>
           <button
-            class="font-overpass bg-MediumGrey/30 text-LightGrey rounded-full pt-2 pr-0 h-12 hover:bg-Orange w-12 hover:text-white"
+            class="font-overpass valuebutton bg-MediumGrey/30 text-LightGrey rounded-full pt-2 pr-0 h-12 hover:bg-Orange w-12 hover:text-white"
           >
             5
           </button>
@@ -66,6 +67,7 @@
         <div class="flex justify-center items-center">
           <button
             class="font-overpass font-bold tracking-wider rounded-full text-gray-50 bg-Orange hover:bg-gray-50 hover:text-Orange pt-4 py-2 my-2 px-32 mb:py-3"
+            id="submit"
           >
             SUMBIT
           </button>
@@ -74,30 +76,38 @@
       <!-- Blue Box End -->
       <!-- Thank You Box Start -->
       <div
-        class="container mx-40 rounded-3xl max-w-full p-5 mb:p-7 bg-DarkBlue/70 mb:max-w-screen-mb"
+        class="hidden mx-40 rounded-3xl max-w-md p-5 mb:p-7 bg-DarkBlue/70 mb:max-w-screen-mb"
+        id="thanks"
       >
-        <img
-          src="images/illustration-thank-you.svg"
-          class="my-5 mx-auto h-32"
-          alt=""
-        />
-        <p
-          class="rounded-2xl text-Orange mx-auto text-sm my-4 mt-7 w-60 px-3 py-1.5 text-center bg-MediumGrey/40"
+        <div
+          class="container w-80 flex flex-col justify-center items-center md:w-[24rem]"
         >
-          You selected <span class="rating inline px-0"></span> out of 5
-        </p>
-        <h1
-          class="text-white font-overpass text-3xl text-center font-bold mt-10 my-3"
-        >
-          Thank you!
-        </h1>
-        <p class="font-overpass text-LightGrey text-center">
-          We appreciate you taking the time to give a rating. If you ever need
-          more support, don’t hesitate to get in touch!
-        </p>
+          <img
+            src="images/illustration-thank-you.svg"
+            class="my-5 h-32"
+            alt=""
+          />
+          <p
+            class="rounded-2xl text-Orange mx-auto text-sm my-4 mt-7 w-60 px-3 py-1.5 text-center bg-MediumGrey/40"
+          >
+            You selected <span class="score inline px-0"></span> out of 5
+          </p>
+          <h1
+            class="text-white font-overpass text-xl text-center font-bold mt-10 my-3 mb:text-3xl"
+          >
+            Thank you!
+          </h1>
+          <p
+            class="font-overpass text-sm text-LightGrey text-center mb:text-base"
+          >
+            We appreciate you taking the time to give a rating. If you ever need
+            more support, don’t hesitate to get in touch!
+          </p>
+        </div>
       </div>
       <!-- Thank You Box End -->
     </div>
     <!-- Ranking Box End -->
+    <script src="js/index.js"></script>
   </body>
 </html>
