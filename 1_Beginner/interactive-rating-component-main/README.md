@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/interactive-rating-component-solution-HykcfPcS5)
-- Live Site URL: [Add live site URL here](https://interactive-rating-adhoc.netlify.app/)
+- Solution URL: [Solution link](https://www.frontendmentor.io/solutions/interactive-rating-component-solution-HykcfPcS5)
+- Live Site URL: [Live link](https://interactive-rating-adhoc.netlify.app/)
 
 ### Built with
 
