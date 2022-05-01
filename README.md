@@ -5,7 +5,7 @@
 - [interactive-rating-component-main](https://github.com/Ad-h0c/Frontendmaster-challenges/tree/main/1_Beginner/interactive-rating-component-main)
   - [Link to site](https://interactive-rating-adhoc.netlify.app/)
 
--[QR code component](https://github.com/Ad-h0c/Frontendmaster-challenges/tree/main/1_Beginner/qr-code-component-main)
+- [QR code component](https://github.com/Ad-h0c/Frontendmaster-challenges/tree/main/1_Beginner/qr-code-component-main)
   -[Link to site](https://qr-code-adh0c.netlify.app/)
 
 ## Intermediatery Challenges
