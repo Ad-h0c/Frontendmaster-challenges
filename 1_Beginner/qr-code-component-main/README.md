@@ -22,7 +22,6 @@ Users should be able to:
 
 ### Screenshots
 
-![Desktop](./Screenshots/1.png)
 ![Mobile](./Screenshots/2.png)
 
 ### Links
