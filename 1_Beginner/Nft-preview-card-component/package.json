@@ -1,0 +1,21 @@
+{
+  "name": "nft-preview-card-component",
+  "version": "1.0.0",
+  "description": "nft preview card component using html and tailwindcss",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build": "tailwindcss -i ./input.css -o ./css/main.css", 
+    "watch": "tailwindcss -i ./input.css -o ./css/main.css --watch"
+  },
+  "keywords": [
+    "html",
+    "tailwindcss",
+    "nft"
+  ],
+  "author": "adhoc",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
+
