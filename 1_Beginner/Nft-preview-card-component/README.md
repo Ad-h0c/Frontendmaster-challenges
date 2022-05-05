@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution link](https://www.frontendmentor.io/solutions/nft-preview-card-component-S1k6G-WU9){:target="_blank"}
-- Live Site URL: [Live link](https://nft-preview-adhoc.netlify.app/){:target="_blank"}
+- Solution URL: [Solution link](https://www.frontendmentor.io/solutions/nft-preview-card-component-S1k6G-WU9)
+- Live Site URL: [Live link](https://nft-preview-adhoc.netlify.app/)
 
 ### Built with
 
