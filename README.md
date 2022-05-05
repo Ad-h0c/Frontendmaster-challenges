@@ -8,6 +8,9 @@
 - [QR code component](https://github.com/Ad-h0c/Frontendmaster-challenges/tree/main/1_Beginner/qr-code-component-main)
   - [Link to site](https://qr-code-adh0c.netlify.app/)
 
+- [NFT-preview-card-component](https://github.com/Ad-h0c/Frontendmaster-challenges/tree/main/1_Beginner/Nft-preview-card-component)
+  - [Link to site](https://nft-preview-adhoc.netlify.app/)
+
 ## Intermediatery Challenges
 
 - [Manage-Landingpage](https://github.com/Ad-h0c/Frontendmaster-challenges/tree/main/2_Intermediate/Landingpage-manage)
