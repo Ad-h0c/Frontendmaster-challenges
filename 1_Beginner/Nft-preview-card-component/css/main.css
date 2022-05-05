@@ -647,6 +647,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 body {
   background-color: hsl(217, 54%, 11%);
+  /* -webkit-tap-highlight-color: transparent; */
 }
 
 .hover\:text-cyan:hover{
