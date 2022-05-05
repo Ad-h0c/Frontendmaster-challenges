@@ -4,7 +4,69 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/main.css" />
     <title>Nft preview card component</title>
   </head>
-  <body></body>
+  <body>
+    <!-- Center div -->
+    <div
+      class="flex flex-col items-center cursor-pointer justify-center min-h-screen relative"
+    >
+      <!-- NFT Container -->
+      <div
+        class="flex flex-col bg-darkBlueNormal max-w-screen-mb p-8 rounded-2xl font-outfit drop-shadow-2xl shadow-2xl"
+      >
+        <!-- Image -->
+        <img
+          src="images/image-equilibrium.jpg"
+          class="w-80 rounded-xl"
+          alt=""
+        />
+        <div
+          class="absolute bg-cyan/60 flex justify-center items-center w-[19.438rem] h-[19.438rem] rounded-xl opacity-0 hover:opacity-100"
+        >
+          <img src="images/icon-view.svg" class="rounded-xl" alt="" />
+        </div>
+        <!-- Equilibrium -->
+        <h2
+          class="font-outfit text-left text-2xl font-semibold hover:text-cyan text-White mt-4"
+        >
+          Equilibrium #3429
+        </h2>
+        <!-- Explaination -->
+        <p class="text-softBlue/75 font-outfit text-left text-[1.2rem] my-4">
+          Our Equilibrium collection promotes balance and calm.
+        </p>
+        <!-- Price and Time -->
+        <div class="flex justify-between">
+          <h4 class="font-outfit text-cyan text-[1.2rem]">
+            <!-- Price -->
+            <img
+              src="images/icon-ethereum.svg"
+              class="inline pr-2"
+              alt=""
+            />0.041 ETH
+          </h4>
+          <!-- Time -->
+          <h4 class="font-outfit text-white text-lg">
+            <img src="images/icon-clock.svg" class="inline pr-2 w-7" alt="" />3
+            days left
+          </h4>
+        </div>
+        <!-- Horizontal Line -->
+        <hr class="border-darkBlue my-4" />
+        <!-- Artist -->
+        <div class="flex justify-between">
+          <h4 class="font-outfit text-softBlue/75 text-lg">
+            <img
+              src="images/image-avatar.png"
+              class="inline w-9 mr-3 border rounded-full"
+              alt=""
+            />Creation of
+            <span class="text-white hover:text-cyan">Jules Wyvern</span>
+          </h4>
+        </div>
+      </div>
+    </div>
+  </body>
 </html>

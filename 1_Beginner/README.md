@@ -9,3 +9,7 @@
 ### project Two: QR code component
 
 [QR code component](./qr-code-component-main)
+
+### project Three: Nft-preview-card-component
+
+[NFT preview card](./Nft-preview-card-component/)
