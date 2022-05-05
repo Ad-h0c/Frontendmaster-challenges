@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution link](https://www.frontendmentor.io/solutions/interactive-rating-component-solution-HykcfPcS5)
-- Live Site URL: [Live link](https://interactive-rating-adhoc.netlify.app/)
+- Solution URL: [Solution link](https://www.frontendmentor.io/solutions/nft-preview-card-component-S1k6G-WU9)
+- Live Site URL: [Live link](https://nft-preview-adhoc.netlify.app/)
 
 ### Built with
 
